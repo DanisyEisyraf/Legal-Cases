@@ -3,7 +3,7 @@
 This README.md file provides a brief overview of four legal acts: the Communications and Multimedia Act 1997 (CCA 1997), the Personal Data Protection Act 2010 (PDPA 2010), the Digital Signature Act 1997, and the Computer Crimes Act 1997. It explains the applicability of these acts in different cases and clarifies whether they are commonly used in attack or defense scenarios.
 
 ## **Communications and Multimedia Act**
-The CCA 1997 is a comprehensive legislation that governs various aspects of communications and multimedia in Malaysia. It covers telecommunications, broadcasting, online content, and network security. The act provides guidelines and regulations for network service providers, content providers, and users.
+The act is a comprehensive legislation that governs various aspects of communications and multimedia in Malaysia. It covers telecommunications, broadcasting, online content, and network security. The act provides guidelines and regulations for network service providers, content providers, and users.
 
 Applicability:
 Akta Komunikasi dan Multimedia is commonly used in cases involving telecommunications offenses, such as illegal interception of communications, unauthorized access to computer systems, and misuse of network facilities.
