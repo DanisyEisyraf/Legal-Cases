@@ -9,6 +9,10 @@ Applicability:
 Akta Komunikasi dan Multimedia is commonly used in cases involving telecommunications offenses, such as illegal interception of communications, unauthorized access to computer systems, and misuse of network facilities.
 This act is applicable to both attack and defense scenarios. It can be used by law enforcement agencies to prosecute individuals or organizations involved in cybercrimes. Similarly, it can be invoked by defendants to establish legal defenses against wrongful accusations related to telecommunications offenses.
 
+> Key takeaways: 
+- Social media abuse
+- False information
+- E - commerce
 
 
 ## **Personal Data Protection Act 2010 (PDPA 2010)**
@@ -18,6 +22,12 @@ Applicability:
 PDPA 2010 is primarily used in cases related to the mishandling or unauthorized disclosure of personal data. It applies to organizations that collect, process, or store personal data, such as businesses, government agencies, and non-profit organizations.
 This act is commonly used in defense cases. Individuals whose personal data has been mishandled or disclosed without consent can invoke the PDPA 2010 to seek legal remedies and compensation. Additionally, organizations can also rely on the act's provisions to establish compliance and defend against allegations of data breaches.
 
+> Key takeaways: 
+- Secure system
+- Defense mechanism
+- Protecting data
+- Data breach
+
 
 ## **Digital Signature Act 1997**
 The Digital Signature Act 1997 governs the use of digital signatures in Malaysia. It provides legal recognition to digital signatures and establishes the requirements for their validity and reliability. The act aims to facilitate secure electronic transactions and promote the use of digital signatures in various sectors.
@@ -26,6 +36,11 @@ Applicability:
 The Digital Signature Act 1997 is applicable in cases involving the use of digital signatures, such as electronic contracts, digital authentication, and secure online transactions.
 This act is commonly used in defense cases. Individuals or organizations involved in electronic transactions can rely on the Digital Signature Act 1997 to establish the authenticity and integrity of digital signatures as evidence. By doing so, they can defend against allegations of fraud or repudiation of electronic transactions.
 
+> Key takeaways: 
+- Digital certificate
+- Certificate authority
+- News authority
+- News authenticity
 
 ## **Computer Crimes Act 1997**
 The Computer Crimes Act 1997 is a specific legislation in Malaysia that deals with offenses related to computer systems and digital data. It criminalizes unauthorized access, unauthorized modification, and unauthorized interception of computer systems and data.
@@ -33,3 +48,8 @@ The Computer Crimes Act 1997 is a specific legislation in Malaysia that deals wi
 Applicability:
 The Computer Crimes Act 1997 is primarily used in cases involving cybercrimes, such as hacking, computer fraud, and unauthorized access to computer systems.
 This act is commonly used in attack cases. Law enforcement agencies utilize the Computer Crimes Act 1997 to investigate and prosecute individuals or groups involved in cyberattacks and computer-related offenses. It provides a legal framework to combat cybercrimes and protect computer systems and digital data
+
+> Key takeaways: 
+- Offensive attakcs
+- Cyber attacks
+- Security breaches
