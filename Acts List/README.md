@@ -10,6 +10,7 @@ Akta Komunikasi dan Multimedia is commonly used in cases involving telecommunica
 This act is applicable to both attack and defense scenarios. It can be used by law enforcement agencies to prosecute individuals or organizations involved in cybercrimes. Similarly, it can be invoked by defendants to establish legal defenses against wrongful accusations related to telecommunications offenses.
 
 
+
 **Personal Data Protection Act 2010 (PDPA 2010)**
 The PDPA 2010 is designed to protect personal data processed by organizations in Malaysia. It establishes principles and guidelines for the collection, use, and disclosure of personal data. The act aims to safeguard individuals' privacy and promote responsible data handling practices.
 
