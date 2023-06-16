@@ -55,7 +55,7 @@ This act is commonly used in attack cases. Law enforcement agencies utilize the 
 - Security breaches
 
 
-## **Akta Rahsia Rasmi**
+## **Akta Rahsia Rasmi 1972**
 This act emphasizes the security of law enforcers on seizing evidence, and suspected materials, and protecting received materials such as reports, and other relevant materials.
 This act is commonly used by law enforcers to attain materials, perform their duties, and protect evidence and materials seized or received by law enforcers.
 > Key takeaways:
