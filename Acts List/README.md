@@ -39,7 +39,7 @@ This act is commonly used in defense cases. Individuals or organizations involve
 > Key takeaways: 
 - Digital certificate
 - Certificate authority
-- News authority
+- News Authority
 - News authenticity
 
 ## **Computer Crimes Act 1997**
@@ -50,6 +50,11 @@ The Computer Crimes Act 1997 is primarily used in cases involving cybercrimes, s
 This act is commonly used in attack cases. Law enforcement agencies utilize the Computer Crimes Act 1997 to investigate and prosecute individuals or groups involved in cyberattacks and computer-related offenses. It provides a legal framework to combat cybercrimes and protect computer systems and digital data
 
 > Key takeaways: 
-- Offensive attakcs
+- Offensive attacks
 - Cyber attacks
 - Security breaches
+
+
+## **Akta Rahsia Rasmi**
+This act emphasizes the security of law enforcers on seizing evidence, and suspected materials, and protecting received materials such as reports, and other relevant materials.
+This act is commonly used about law enforcers attaining materials, performing their duties, and tprotecting 
