@@ -62,5 +62,5 @@ This act is commonly used by law enforcers to attain materials, perform their du
 - Disrupting law enforcers performing their duties (Mengganggu pihak berkuasa menjalankan tugas)
 - Government secrecy
 - Seizing, protecting, and securing evidence or relevant materials
-- Intelligence secrecy
+- Restricted area
 
