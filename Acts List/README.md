@@ -1,6 +1,6 @@
 # **Legal Acts and Their Applicability in Different Cases**
 
-This README.md file provides a brief overview of four legal acts: the Communications and Multimedia Act 1997 (CCA 1997), the Personal Data Protection Act 2010 (PDPA 2010), the Digital Signature Act 1997, and the Computer Crimes Act 1997. It explains the applicability of these acts in different cases and clarifies whether they are commonly used in attack or defense scenarios.
+This repo section provides a brief overview of the legal acts: the Communications and Multimedia Act 1997 (CCA 1997), the Personal Data Protection Act 2010 (PDPA 2010), the Digital Signature Act 1997, and the Computer Crimes Act 1997, Akta Rahsa Rasmi 1972. It explains the applicability of these acts in different cases and clarifies whether they are commonly used in attack or defense scenarios.
 
 ## **Communications and Multimedia Act**
 The act is a comprehensive legislation that governs various aspects of communications and multimedia in Malaysia. It covers telecommunications, broadcasting, online content, and network security. The act provides guidelines and regulations for network service providers, content providers, and users.
@@ -57,7 +57,7 @@ This act is commonly used in attack cases. Law enforcement agencies utilize the 
 
 ## **Akta Rahsia Rasmi 1972**
 This act emphasizes the security of law enforcers on seizing evidence, and suspected materials, and protecting received materials such as reports, and other relevant materials.
-This act is commonly used by law enforcers to attain materials, perform their duties, and protect evidence and materials seized or received by law enforcers.
+This act is commonly used by law enforcers to attain materials, perform their duties, and protect evidence and materials seized or received by law enforcers. It can be used as an offensive charge against law enforcers when there are confidentiality breaches.
 > Key takeaways:
 - Disrupting law enforcers performing their duties (Mengganggu pihak berkuasa menjalankan tugas)
 - Government secrecy
