@@ -64,3 +64,9 @@ This act is commonly used by law enforcers to attain materials, perform their du
 - Seizing, protecting, and securing evidence or relevant materials
 - Restricted area
 
+
+##**AMLATFPUAA 2001**
+Only several sections in this act is relevant for computer-related legalities especially in the case of cryptocurrencies
+> Key takeaways
+- Seizing financial instruments
+- Anti-money laundering in cryptocurrencies
