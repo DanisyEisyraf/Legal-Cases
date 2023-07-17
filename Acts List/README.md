@@ -76,3 +76,4 @@ This act only emphasizes the authoritarian power of MKN in every context which i
 > Key takeaways
 - National Security
 - MKN powers
+- Perintah Berkurung
