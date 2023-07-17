@@ -70,3 +70,9 @@ Only several sections in this act is relevant for computer-related legalities es
 > Key takeaways
 - Seizing financial instruments
 - Anti-money laundering in cryptocurrencies
+
+## **Akta MKN**
+This act only emphasizes the authoritarian power of MKN in every context which includes and relevant to cyber security
+> Key takeaways
+- National Security
+- MKN powers
