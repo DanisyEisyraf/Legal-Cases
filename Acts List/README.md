@@ -2,6 +2,32 @@
 
 This repo section provides a brief overview of the legal acts: the Communications and Multimedia Act 1997 (CCA 1997), the Personal Data Protection Act 2010 (PDPA 2010), the Digital Signature Act 1997, and the Computer Crimes Act 1997, Akta Rahsa Rasmi 1972. It explains the applicability of these acts in different cases and clarifies whether they are commonly used in attack or defense scenarios.
 
+## **Personal Data Protection Act 2010 (PDPA 2010)**
+The PDPA 2010 is designed to protect personal data processed by organizations in Malaysia. It establishes principles and guidelines for the collection, use, and disclosure of personal data. The act aims to safeguard individuals' privacy and promote responsible data handling practices.
+
+Applicability:
+PDPA 2010 is primarily used in cases related to the mishandling or unauthorized disclosure of personal data. It applies to organizations that collect, process, or store personal data, such as businesses, and non-profit organizations. PDPA however, is not applicable to federal and state government bodies.
+This act is commonly used in defense cases. Individuals whose personal data has been mishandled or disclosed without consent can invoke the PDPA 2010 to seek legal remedies and compensation. Additionally, organizations can also rely on the act's provisions to establish compliance and defend against allegations of data breaches.
+
+> Key takeaways: 
+- Secure system
+- Defense mechanism
+- Protecting data
+- Data breach
+
+## **Computer Crimes Act 1997**
+The Computer Crimes Act 1997 is a specific legislation in Malaysia that deals with offenses related to computer systems and digital data. It criminalizes unauthorized access, unauthorized modification, and unauthorized interception of computer systems and data.
+
+Applicability:
+The Computer Crimes Act 1997 is primarily used in cases involving cybercrimes, such as hacking, computer fraud, and unauthorized access to computer systems.
+This act is commonly used in attack cases. Law enforcement agencies utilize the Computer Crimes Act 1997 to investigate and prosecute individuals or groups involved in cyberattacks and computer-related offenses. It provides a legal framework to combat cybercrimes and protect computer systems and digital data
+
+> Key takeaways: 
+- Offensive attacks
+- Cyber attacks
+- Security breaches
+
+
 ## **Communications and Multimedia Act**
 The act is a comprehensive legislation that governs various aspects of communications and multimedia in Malaysia. It covers telecommunications, broadcasting, online content, and network security. The act provides guidelines and regulations for network service providers, content providers, and users.
 
@@ -13,20 +39,6 @@ This act is applicable to both attack and defense scenarios. It can be used by l
 - Social media abuse
 - False information
 - E - commerce
-
-
-## **Personal Data Protection Act 2010 (PDPA 2010)**
-The PDPA 2010 is designed to protect personal data processed by organizations in Malaysia. It establishes principles and guidelines for the collection, use, and disclosure of personal data. The act aims to safeguard individuals' privacy and promote responsible data handling practices.
-
-Applicability:
-PDPA 2010 is primarily used in cases related to the mishandling or unauthorized disclosure of personal data. It applies to organizations that collect, process, or store personal data, such as businesses, government agencies, and non-profit organizations.
-This act is commonly used in defense cases. Individuals whose personal data has been mishandled or disclosed without consent can invoke the PDPA 2010 to seek legal remedies and compensation. Additionally, organizations can also rely on the act's provisions to establish compliance and defend against allegations of data breaches.
-
-> Key takeaways: 
-- Secure system
-- Defense mechanism
-- Protecting data
-- Data breach
 
 
 ## **Digital Signature Act 1997**
@@ -41,18 +53,6 @@ This act is commonly used in defense cases. Individuals or organizations involve
 - Certificate authority
 - News Authority
 - News authenticity
-
-## **Computer Crimes Act 1997**
-The Computer Crimes Act 1997 is a specific legislation in Malaysia that deals with offenses related to computer systems and digital data. It criminalizes unauthorized access, unauthorized modification, and unauthorized interception of computer systems and data.
-
-Applicability:
-The Computer Crimes Act 1997 is primarily used in cases involving cybercrimes, such as hacking, computer fraud, and unauthorized access to computer systems.
-This act is commonly used in attack cases. Law enforcement agencies utilize the Computer Crimes Act 1997 to investigate and prosecute individuals or groups involved in cyberattacks and computer-related offenses. It provides a legal framework to combat cybercrimes and protect computer systems and digital data
-
-> Key takeaways: 
-- Offensive attacks
-- Cyber attacks
-- Security breaches
 
 
 ## **Akta Rahsia Rasmi 1972**
