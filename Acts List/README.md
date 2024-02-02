@@ -1,6 +1,6 @@
 # **Legal Acts and Their Applicability in Different Cases**
 
-This repo section provides a brief overview of the legal acts: the Communications and Multimedia Act 1997 (CCA 1997), the Personal Data Protection Act 2010 (PDPA 2010), the Digital Signature Act 1997, and the Computer Crimes Act 1997, Akta Rahsa Rasmi 1972. It explains the applicability of these acts in different cases and clarifies whether they are commonly used in attack or defense scenarios.
+This repo section provides a brief overview of the legal acts: the Communications and Multimedia Act 1997 (CCA 1997), the Personal Data Protection Act 2010 (PDPA 2010), the Digital Signature Act 1997, and the Computer Crimes Act 1997, Akta Rahsa Rasmi 1972. It explains the applicability of these acts in different cases and clarifies whether they are commonly used.
 
 ## **Personal Data Protection Act 2010 (PDPA 2010)**
 The PDPA 2010 is designed to protect personal data processed by organizations in Malaysia. It establishes principles and guidelines for the collection, use, and disclosure of personal data. The act aims to safeguard individuals' privacy and promote responsible data handling practices.
