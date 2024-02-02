@@ -77,3 +77,14 @@ This act only emphasizes the authoritarian power of MKN in every context which i
 - National Security
 - MKN powers
 - Perintah Berkurung
+
+
+## **SOSMA (Act 747)**
+SOSMA stands for Security Offences, Act 747. It is generalloy used as a medium to press charges for national threats or potential threats.
+> Key Takeaways
+> - National Security
+> - Espionage
+> - Threats
+> - Cyber Threats
+> - APT
+> - State Actor Threats
