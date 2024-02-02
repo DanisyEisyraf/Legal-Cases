@@ -81,6 +81,8 @@ This act only emphasizes the authoritarian power of MKN in every context which i
 
 ## **SOSMA (Act 747)**
 SOSMA stands for Security Offences, Act 747. It is generally used as a medium to press charges against national threats or potential threats. In the context of cybersecurity, any actors that are suspected to be a threat to the public safety, CNII, federal government, etc, can be charged under SOSMA. An actor may not have fully developed an exploit, or an attack to exploit an infra. However with suffice evidence of suspicion, such threat actor can be charged with SOSMA.
+
+Applicability: Any threat actors that can cause disruption to the public safety, YDPA, federal government, can be charged with SOSMA. The most relevant key takeaways for SOSMA in cybersecurity would be cyber terrorism since this Act was an improved version of the obsolete "ISA" act that was developed primarily to combat terrorism. A threat actor can be arrested without warrant.
 > Key Takeaways
  - National Security
  - Espionage
@@ -88,3 +90,4 @@ SOSMA stands for Security Offences, Act 747. It is generally used as a medium to
  - Cyber Threats
  - APT
  - State Actor Threats
+ - Cyber Terrorism
