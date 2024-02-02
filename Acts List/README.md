@@ -7,7 +7,7 @@ The PDPA 2010 is designed to protect personal data processed by organizations in
 
 Applicability:
 PDPA 2010 is primarily used in cases related to the mishandling or unauthorized disclosure of personal data. It applies to organizations that collect, process, or store personal data, such as businesses, and non-profit organizations. PDPA however, is not applicable to federal and state government bodies.
-This act is commonly used in defense cases. Individuals whose personal data has been mishandled or disclosed without consent can invoke the PDPA 2010 to seek legal remedies and compensation. Additionally, organizations can also rely on the act's provisions to establish compliance and defend against allegations of data breaches.
+This act is commonly used in charging cases. Individuals whose personal data has been mishandled or disclosed without consent can invoke the PDPA 2010 to seek legal remedies and compensation. Additionally, organizations can also rely on the act's provisions to establish compliance and defend against allegations of data breaches.
 
 > Key takeaways: 
 - Secure system
@@ -20,7 +20,7 @@ The Computer Crimes Act 1997 is a specific legislation in Malaysia that deals wi
 
 Applicability:
 The Computer Crimes Act 1997 is primarily used in cases involving cybercrimes, such as hacking, computer fraud, and unauthorized access to computer systems.
-This act is commonly used in attack cases. Law enforcement agencies utilize the Computer Crimes Act 1997 to investigate and prosecute individuals or groups involved in cyberattacks and computer-related offenses. It provides a legal framework to combat cybercrimes and protect computer systems and digital data
+This act is commonly used in attack cases. Law enforcement agencies utilize the Computer Crimes Act 1997 to investigate and prosecute individuals or groups involved in cyberattacks and computer-related offenses. It provides a legal framework to combat cybercrimes.
 
 > Key takeaways: 
 - Offensive attacks
@@ -33,7 +33,7 @@ The act is a comprehensive legislation that governs various aspects of communica
 
 Applicability:
 Akta Komunikasi dan Multimedia is commonly used in cases involving telecommunications offenses, such as illegal interception of communications, unauthorized access to computer systems, and misuse of network facilities.
-This act is applicable to both attack and defense scenarios. It can be used by law enforcement agencies to prosecute individuals or organizations involved in cybercrimes. Similarly, it can be invoked by defendants to establish legal defenses against wrongful accusations related to telecommunications offenses.
+It can be used by law enforcement agencies to prosecute individuals or organizations involved in cybercrimes. Similarly, it can be invoked by defendants to establish legal defenses against wrongful accusations related to telecommunications offenses.
 
 > Key takeaways: 
 - Social media abuse
@@ -57,7 +57,7 @@ This act is commonly used in defense cases. Individuals or organizations involve
 
 ## **Akta Rahsia Rasmi 1972**
 This act emphasizes the security of law enforcers on seizing evidence, and suspected materials, and protecting received materials such as reports, and other relevant materials.
-This act is commonly used by law enforcers to attain materials, perform their duties, and protect evidence and materials seized or received by law enforcers. It can be used as an offensive charge against law enforcers when there are confidentiality breaches.
+This act is commonly used by law enforcers to attain materials, perform their duties, and protect evidence and materials seized or received by law enforcers. It can be used as an charge accusation against law enforcers when there are confidentiality breaches.
 > Key takeaways:
 - Disrupting law enforcers performing their duties (Mengganggu pihak berkuasa menjalankan tugas)
 - Government secrecy
@@ -72,7 +72,7 @@ Only several sections in this act is relevant for computer-related legalities es
 - Anti-money laundering in cryptocurrencies
 
 ## **Akta MKN**
-This act only emphasizes the authoritarian power of MKN in every context which includes and relevant to cyber security
+This act only emphasizes the authoritarian power of MKN in every context which includes and relevant to cyber security. This is relevant to cyber security as NACSA exercises their power within this act.
 > Key takeaways
 - National Security
 - MKN powers
